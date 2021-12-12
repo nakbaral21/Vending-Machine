@@ -7,5 +7,5 @@ Buatlah mesin penjual minuman otomatis dengan spesifikasi sebagai berikut :
  3. Mesin tidak mengeluarkan uang kembalian dan sisa uang akan tersimpan di mesin yang dapat digunakan untuk pembelian berikutnya.
  4. Mesin dibuat dengan mesin Moore.
 # Jawaban
-Laporan Jawaban dapat dilihat di:https://github.com/nakbaral21/Vending-Machine/blob/edits/Laporan.pdf
-dan File rangkaian digital : https://github.com/nakbaral21/Vending-Machine/blob/edits/Vending%20Machine.pdsprj
+Laporan Jawaban dapat dilihat di https://github.com/nakbaral21/Vending-Machine/blob/edits/Laporan.pdf
+dan File rangkaian digital di https://github.com/nakbaral21/Vending-Machine/blob/edits/Vending%20Machine.pdsprj
