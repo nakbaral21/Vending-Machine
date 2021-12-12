@@ -8,4 +8,4 @@ Buatlah mesin penjual minuman otomatis dengan spesifikasi sebagai berikut :
  4. Mesin dibuat dengan mesin Moore.
 # Jawaban
 Laporan Jawaban dapat dilihat di https://github.com/nakbaral21/Vending-Machine/blob/edits/Laporan.pdf
-dan File rangkaian digital di https://github.com/nakbaral21/Vending-Machine/blob/edits/Vending%20Machine.pdsprj
+dan rangkaian digital di https://github.com/nakbaral21/Vending-Machine/blob/edits/Vending%20Machine.pdsprj
